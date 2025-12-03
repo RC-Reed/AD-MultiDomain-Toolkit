@@ -1,14 +1,3 @@
-Perfect — here is **STEP 5: Your complete `Troubleshooting-Tools.md`**.
-This explains every troubleshooting function your tool includes, why each exists, and how they’re engineered.
-
-You can paste this directly into:
-
-```
-docs/Troubleshooting-Tools.md
-```
-
----
-
 # 🛠 Troubleshooting Tools
 
 ### *Detailed explanation of the auxiliary support tools built into the AD Multi-Domain Toolkit.*
